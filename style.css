@@ -1,0 +1,23 @@
+div.uno{
+    display: block;
+    width: 25%;
+
+}
+span.cursiva{
+    font-style: oblique;
+}
+span.negreta{
+    font-weight: bold;
+}
+span.xicotet{
+    font-size: small;
+}
+span.dam{
+    text-decoration: line-through;
+}
+span.perro{
+    font-style: italic;
+}
+span.amarillo{
+    background-color: yellow;
+}
